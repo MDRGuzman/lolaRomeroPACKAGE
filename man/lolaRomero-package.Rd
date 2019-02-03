@@ -1,24 +1,24 @@
-\name{lolaRomero-package}
-\alias{lolaRomero-package}
-\alias{lolaRomero}
+\name{lolaRomeroPACKAGE-package}
+\alias{lolaRomeroPACKAGE-package}
+\alias{lolaRomeroPACKAGE}
 \docType{package}
 \title{
-\packageTitle{lolaRomero}
+\packageTitle{lolaRomeroPACKAGE}
 }
 \description{
-\packageDescription{lolaRomero}
+\packageDescription{lolaRomeroPACKAGE}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{lolaRomero}
-\packageIndices{lolaRomero}
+\packageDESCRIPTION{lolaRomeroPACKAGE}
+\packageIndices{lolaRomeroPACKAGE}
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{lolaRomero}
+\packageAuthor{lolaRomeroPACKAGE}
 
-Maintainer: \packageMaintainer{lolaRomero}
+Maintainer: \packageMaintainer{lolaRomeroPACKAGE}
 }
 \references{
 ~~ Literature or other references for background information ~~
