@@ -6,7 +6,7 @@
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
-resta.dos.numeros(a, b = NA)
+resta.dos.numeros(a, b)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -47,19 +47,6 @@ resta.dos.numeros(a, b = NA)
 ##-- ==>  Define data, use random,
 ##--	or do  help(data=index)  for the standard data sets.
 
-## The function is currently defined as
-function (a, b = NA) 
-{
-    if (!is.na(b)) 
-        return(a - b)
-    x <- unlist(strsplit(toString(a), ".", fixed = TRUE))
-    n1 <- strtoi(x[1], base = 0L)
-    n2 <- strtoi(x[2], base = 0L)
-    if (is.na(n2)) 
-        n2 = 0
-    return(n1 - n2)
-  }
-}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
