@@ -1,21 +1,14 @@
 \name{suma.dos.numeros}
 \alias{suma.dos.numeros}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Suma Function}
-\description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
-}
+\title{suma.dos.numeros funcion}
+\description{Una funcion que suma dos numeros.}
 \usage{
 suma.dos.numeros(a, b)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{a}{
-%%     ~~Describe \code{a} here~~
-}
-  \item{b}{
-%%     ~~Describe \code{b} here~~
-}
+\item{value}{a and value b}
 }
 \details{
 %%  ~~ If necessary, more details than the description above ~~
@@ -30,11 +23,8 @@ suma.dos.numeros(a, b)
 \references{
 %% ~put references to the literature/web site here ~
 }
-\author{
-%%  ~~who you are~~
-}
-\note{
-%%  ~~further notes~~
+\author{Lola Romero Guzman}
+\note{ Ejercicio para UTAD
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
@@ -46,8 +36,8 @@ suma.dos.numeros(a, b)
 ##---- Should be DIRECTLY executable !! ----
 ##-- ==>  Define data, use random,
 ##--	or do  help(data=index)  for the standard data sets.
-
+suma.dos.numeros(1,2)
+suma.dos.numeros(2,3)
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
+\keyword{suma.dos.numeros}
