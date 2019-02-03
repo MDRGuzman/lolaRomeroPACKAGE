@@ -2,9 +2,7 @@
 \alias{lolaRomeroPACKAGE-package}
 \alias{lolaRomeroPACKAGE}
 \docType{package}
-\title{
-\packageTitle{lolaRomeroPACKAGE}
-}
+\title{Function}
 \description{
 \packageDescription{lolaRomeroPACKAGE}
 }
