@@ -3,7 +3,7 @@
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{Resta Function}
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+%% Es una funcion que resta dos numeros enteros
 }
 \usage{
 resta.dos.numeros(a, b)
@@ -46,8 +46,10 @@ resta.dos.numeros(a, b)
 ##---- Should be DIRECTLY executable !! ----
 ##-- ==>  Define data, use random,
 ##--	or do  help(data=index)  for the standard data sets.
+suma.dos.numeros(1,2)
 
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
 \keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
+\keyword{suma.dos.numeros}
