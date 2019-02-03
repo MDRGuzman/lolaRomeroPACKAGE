@@ -1,9 +1,7 @@
 \name{resta.dos.numeros}
 \alias{resta.dos.numeros}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
-%%  ~~function to do ... ~~
-}
+\title{Resta Function}
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
